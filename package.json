@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "indexAtividade.js",
   "scripts": {
-    "start": "node indexatividadeoito.js",
+    "start": "node indexatividadeoito",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
