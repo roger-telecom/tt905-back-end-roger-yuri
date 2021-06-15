@@ -61,11 +61,7 @@ res4.send("Os dados não foram encontrados");
         
 else {
         
-res4.send(array1.filter(function(i){
-
-return i =! null;
-
-}));
+res4.send(array1.filter(Boolean));
         
 }
     
